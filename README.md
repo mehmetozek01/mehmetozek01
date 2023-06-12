@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [aikata-ecommerce](https://github.com/mehmetozek01/aikata_ecommerce)
 
-- 🌱 I’m currently learning **React Native, Flutter, JavaScript**
+- 🌱 I’m currently learning **Flutter Application**
 
-- 👨‍💻 All of my projects are available at [https://mehmetozek01-github-io-2uyv.vercel.app](https://mehmetozek01-github-io-2uyv.vercel.app)
+- 👨‍💻 All of my projects are available at [https://github.com/mehmetozek01](https://github.com/mehmetozek01)
 
-- 💬 Ask me about **Android, Website**
+<!-- - 💬 Ask me about **Android, Website** -->
 
 - 📫 How to reach me **mehmetvozek01@gmail.com**
 
