@@ -42,13 +42,14 @@ A Flutter-based e-commerce mobile application built with Firebase and GetX.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetozek01&theme=github_dark" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetozek01&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetozek01&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehmetozek01&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmetozek01&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehmetozek01&theme=github_dark" />
 </p>
+
 ## 📫 Contact
 
 <p align="left">
